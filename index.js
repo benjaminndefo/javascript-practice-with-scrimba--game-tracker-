@@ -47,3 +47,12 @@ function awaythirdbutton(){
 }
 
 
+function homereset(){
+    let homeresetscore = 0;
+    homeScore.textContent = homeresetscore;
+}
+
+function awayreset(){
+    let awayresetscore = 0;
+    awayScore.textContent = awayresetscore;
+}
